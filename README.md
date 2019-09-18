@@ -5,3 +5,5 @@ Signorelli, M., Vinciotti, V., Wit, E. C. (2016), "NEAT: an efficient network en
 For each simulation, a workspace (file .Rdata) and a script (file .R) are available.
 
 More information on NEAT can be found at this URL: http://mirkosignorelli.wixsite.com/home/software
+
+![The logo of the package](https://github.com/m-signo/neat/blob/master/neat_logo.png)
