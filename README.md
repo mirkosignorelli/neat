@@ -6,4 +6,6 @@ For each simulation, a workspace (file .Rdata) and a script (file .R) are availa
 
 More information on NEAT can be found at this URL: http://mirkosignorelli.wixsite.com/home/software
 
-<img align="center" src="https://github.com/m-signo/neat/blob/master/neat_logo.png" width="250" height="250" />
+<p align="center">
+<img src="https://github.com/m-signo/neat/blob/master/neat_logo.png" width="250" height="250" />
+</p>
