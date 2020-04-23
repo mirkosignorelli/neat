@@ -16,5 +16,9 @@ For each simulation, a workspace (file .Rdata) and a script (file .R) are availa
 neat is an R package that can be downloaded from CRAN. This can be done in R through the command install.packages('neat').
 
 ## Further information
-More information on NEAT can be found at this URL: http://mirkosignorelli.wixsite.com/home/software.
+More information on ptmixed can be found in the following pages:
+* [CRAN package page](https://cran.r-project.org/web/packages/neat/index.html);
+* [on my personal website](http://mirkosignorelli.wixsite.com/home/software);
+* [in the vignette that illustrates how to use the R package's functions](https://cran.r-project.org/web/packages/neat/vignettes/neat.html).
+
 A read-only mirror of the package's source code is available at https://github.com/cran/neat.
