@@ -1,7 +1,7 @@
 # NEAT: an efficient network enrichment analysis test
 
 <p align="center">
-<img src="https://github.com/m-signo/neat/blob/master/neat_logo.png" width="250" height="240" />
+<img src="https://user-images.githubusercontent.com/20061736/80108331-75fa5380-857c-11ea-8ca0-aeae2ca1351c.png" width="250" height="240" />
 </p>
 
 ## What is neat?
