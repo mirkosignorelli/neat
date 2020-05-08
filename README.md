@@ -20,7 +20,3 @@ More information on ptmixed can be found in the following pages:
 * [in the vignette that illustrates how to use the R package's functions](https://cran.r-project.org/web/packages/neat/vignettes/neat.html).
 
 A read-only mirror of the package's source code is available at https://github.com/cran/neat.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/20061736/81393545-d662c680-9120-11ea-9963-a737f963bd8d.png" width="300" height="300" />
-</p>
