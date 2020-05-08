@@ -22,5 +22,5 @@ More information on ptmixed can be found in the following pages:
 A read-only mirror of the package's source code is available at https://github.com/cran/neat.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/20061736/81393545-d662c680-9120-11ea-9963-a737f963bd8d.png" width="500" height="500" />
+<img src="https://user-images.githubusercontent.com/20061736/81393545-d662c680-9120-11ea-9963-a737f963bd8d.png" width="300" height="300" />
 </p>
