@@ -2,7 +2,7 @@
 
 ## What is neat?
 neat is the R package that implements NEAT, the Network Enrichment Analysis Test which is presented in Signorelli, M., Vinciotti, V., Wit, E. C. (2016). NEAT: an efficient network enrichment analysis test. *BMC Bioinformatics*, 17:352.
-You can read the paper (with open access) here: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6
+You can read and download the paper (with open access) here: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1203-6
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/20061736/81393545-d662c680-9120-11ea-9963-a737f963bd8d.png" width="500" height="500" />
