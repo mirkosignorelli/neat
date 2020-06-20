@@ -1,5 +1,8 @@
 # NEAT: an efficient network enrichment analysis test
 
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/neat)](https://cran.r-project.org/package=neat)
+[![Total Downloads](http://cranlogs.r-pkg.org/badges/grand-total/neat?color=orange)](http://cranlogs.r-pkg.org/badges/grand-total/neat)
+
 <img src="https://user-images.githubusercontent.com/20061736/81393545-d662c680-9120-11ea-9963-a737f963bd8d.png" align="right" alt="" width="250" />
 
 ## What is neat?
